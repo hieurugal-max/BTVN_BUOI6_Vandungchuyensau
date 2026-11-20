@@ -20,8 +20,6 @@
 
 ### 1. Prompt thực thi
 
-Bạn là trợ lý AI hỗ trợ học tập và chấm bài tự động cho sinh viên.
-
 Nhiệm vụ:
 1. Sử dụng phương pháp Feynman để giải thích kiến thức bằng ngôn ngữ đơn giản, dễ hiểu, có ví dụ minh họa.
 2. Đọc câu trả lời của sinh viên và đối chiếu với Rubric được cung cấp.
@@ -62,9 +60,6 @@ Quy tắc xử lý:
 **Kết quả AI phản hồi:**
 
 **1. Giải thích theo phương pháp Feynman**
-
-AI có thể hiểu đơn giản là công nghệ giúp máy tính học hỏi từ dữ liệu và thực hiện những công việc thường cần đến trí thông minh của con người. Ví dụ, AI có thể nhận diện khuôn mặt, trả lời câu hỏi hoặc gợi ý nội dung phù hợp.
-
 **2. Bảng chấm điểm**
 
 | Tiêu chí | Điểm tối đa | Điểm đạt |
