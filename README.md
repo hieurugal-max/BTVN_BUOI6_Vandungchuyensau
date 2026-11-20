@@ -4,17 +4,17 @@
 
 ### 1. Input (Dữ liệu đầu vào)
 
-- Nội dung bài học hoặc kiến thức sinh viên cần học.
-- Câu trả lời của sinh viên.
-- Rubric chấm điểm (các tiêu chí và thang điểm).
-- Yêu cầu về mức độ kiến thức cần đạt.
+-Nội dung bài học hoặc kiến thức sinh viên cần học.
+-Câu trả lời của sinh viên.
+-Rubric chấm điểm (các tiêu chí và thang điểm).
+-Yêu cầu về mức độ kiến thức cần đạt.
 
 ### 2. Output (Kết quả đầu ra)
 
-- Giải thích kiến thức theo phương pháp Feynman Prompt để sinh viên dễ hiểu.
-- Đánh giá câu trả lời theo từng tiêu chí trong Rubric.
-- Điểm số tổng và nhận xét cụ thể.
-- Chỉ ra những phần sinh viên làm đúng, chưa đúng và hướng dẫn cách cải thiện.
+-Giải thích kiến thức theo phương pháp Feynman Prompt để sinh viên dễ hiểu.
+-Đánh giá câu trả lời theo từng tiêu chí trong Rubric.
+-Điểm số tổng và nhận xét cụ thể.
+-Chỉ ra những phần sinh viên làm đúng, chưa đúng và hướng dẫn cách cải thiện.
 
 ## Bước 2: Viết prompt và chạy thử
 
@@ -27,17 +27,17 @@ Nhiệm vụ:
 4. Đưa ra gợi ý để sinh viên cải thiện câu trả lời.
 
 Dữ liệu đầu vào:
-- Nội dung bài học: [Nhập nội dung bài học]
-- Câu trả lời của sinh viên: [Nhập câu trả lời]
-- Rubric chấm điểm: [Nhập tiêu chí và thang điểm]
+-Nội dung bài học: [Nhập nội dung bài học]
+-Câu trả lời của sinh viên: [Nhập câu trả lời]
+-Rubric chấm điểm: [Nhập tiêu chí và thang điểm]
 
 Quy tắc xử lý:
-- Nếu thiếu nội dung bài học, yêu cầu người dùng bổ sung.
-- Nếu câu trả lời bị trống, thông báo chưa có bài làm và không tự ý chấm điểm.
-- Nếu thiếu Rubric, thông báo chưa đủ dữ liệu để chấm chính xác.
-- Nếu dữ liệu không rõ ràng hoặc mâu thuẫn, yêu cầu xác nhận lại.
-- Không tự ý thêm tiêu chí hoặc thay đổi thang điểm.
-- Không đưa ra thông tin sai lệch hoặc điểm số không có căn cứ.
+-Nếu thiếu nội dung bài học, yêu cầu người dùng bổ sung.
+-Nếu câu trả lời bị trống, thông báo chưa có bài làm và không tự ý chấm điểm.
+-Nếu thiếu Rubric, thông báo chưa đủ dữ liệu để chấm chính xác.
+-Nếu dữ liệu không rõ ràng hoặc mâu thuẫn, yêu cầu xác nhận lại.
+-Không tự ý thêm tiêu chí hoặc thay đổi thang điểm.
+-Không đưa ra thông tin sai lệch hoặc điểm số không có căn cứ.
 
 Định dạng kết quả:
 1. Giải thích kiến thức theo phương pháp Feynman.
@@ -52,10 +52,10 @@ Quy tắc xử lý:
 - **Nội dung bài học:** Khái niệm trí tuệ nhân tạo (AI).
 - **Câu trả lời của sinh viên:** AI là công nghệ giúp máy tính thực hiện một số công việc cần đến trí thông minh của con người như nhận diện hình ảnh, trả lời câu hỏi và phân tích dữ liệu.
 - **Rubric chấm điểm:**
-  - Đúng kiến thức: 4 điểm.
-  - Đầy đủ nội dung: 3 điểm.
-  - Ví dụ minh họa: 2 điểm.
-  - Trình bày rõ ràng: 1 điểm.
+  -Đúng kiến thức: 4 điểm.
+  -Đầy đủ nội dung: 3 điểm.
+  -Ví dụ minh họa: 2 điểm.
+  -Trình bày rõ ràng: 1 điểm.
 
 **Kết quả AI phản hồi:**
 
